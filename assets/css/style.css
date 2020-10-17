@@ -217,6 +217,9 @@ h1, h2,{
 #nav-specialMenu #menuArea .dropdown-menu li {
   color: white;
   cursor:pointer;
+    padding-left: 10px;
+  padding-right: 5px;
+  margin-bottom: 8px;
  }
 #nav-specialMenu #menuArea .dropdown-menu li a:hover{
   background-color: #cda45e;
