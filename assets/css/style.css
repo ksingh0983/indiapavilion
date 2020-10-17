@@ -217,10 +217,7 @@ h1, h2,{
 #nav-specialMenu #menuArea .dropdown-menu li {
   color: white;
   cursor:pointer;
- 
-  padding-bottom: 5px;
-  padding-left: 10px;
-}
+ }
 #nav-specialMenu #menuArea .dropdown-menu li a:hover{
   background-color: #cda45e;
   cursor:pointer;
