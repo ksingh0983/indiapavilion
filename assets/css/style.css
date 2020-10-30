@@ -163,7 +163,7 @@ h1, h2,{
   display: inline-block;
   padding-right: 10px;
   color: rgba(255, 255, 255, 0.5);
-  content: "/";
+  content: "";
 }
 
 /*--------------------------------------------------------------
